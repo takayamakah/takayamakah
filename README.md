@@ -12,6 +12,7 @@
       for everyone who wants to exchange knowledge. 
 - 📫 How to reach me: <karinetakayamasoares@gmail.com>.
 
-..:: Happiness ::.. ..:: Love ::.. ..:: Hope ::.. ..:: Faith ::..
-
-
+::..::  Happiness  ::..::  Love  ::..::  Hope  ::..::  Faith  ::..::
+ ::::               ::::          ::::          ::::           ::::
+  ::                 ::            ::            ::             ::
+  
