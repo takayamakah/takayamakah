@@ -1,4 +1,10 @@
-- 👋 Hi, I’m Karine Takayama. I',m mom, woman and a Data Analyst. And I love to be all these. 💚
+# Hi, I’m Karine Takayama.
+
+<br>
+<img src="/painel2.png" alt="My Panel">
+<br>
+
+- 🧝‍♀️ I',m mom, woman and a Data Analyst. And I love to be all these. 💚
 - 👀 I'm interested in learn more and more about Python, Data Analytics, Data Science,
       Data Visualization, Data Engineering. All about data, because I love learn and work with data.
 - 🌱 I’m currently learning Python🐍. If you want to talk about this subject, send me a message by email ✉️.
