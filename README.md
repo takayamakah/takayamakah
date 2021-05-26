@@ -1,7 +1,7 @@
 # Hi, I’m Karine Takayama.
 
 <br>
-<img src="/painel2.png" alt="My Panel">
+<img src="/painel.png" alt="My Panel">
 <br>
 
 - 🧝‍♀️ I',m mom, woman and a Data Analyst. And I love to be all these. 💚
