@@ -1,8 +1,8 @@
-# Hi, I’m Karine Takayama.
-
 <br>
 <img src="/painel.png" alt="My Panel">
 <br>
+
+# Hi, I’m Karine Takayama.
 
 - 🧝‍♀️ I',m mom, woman and a Data Analyst. And I love to be all these. 💚
 - 👀 I'm interested in learn more and more about Python, Data Analytics, Data Science,
@@ -12,11 +12,6 @@
       for everyone who wants to exchange knowledge. 
 - 📫 How to reach me: <karinetakayamasoares@gmail.com>.
 
-<!---
+..:: Happiness ::.. ..:: Love ::.. ..:: Hope ::.. ..:: Faith ::..
 
-Happiness
-Love
-Hope
-Faith
 
---->
